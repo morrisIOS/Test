@@ -16,14 +16,6 @@
     
 }
 
-
-
-
-
-
-
-
-
 - (void)setupUI {
     self.backgroundColor = [UIColor colorWithWhite:0 alpha:0];
     self.bgView.backgroundColor = [UIColor colorWithWhite:0 alpha:0.5];
